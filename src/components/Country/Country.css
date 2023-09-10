@@ -1,0 +1,14 @@
+.country{
+    margin: 15px;
+    border: 2px solid rgb(52, 56, 47);
+    padding: 15px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 4px 4px 10px black  ;
+}
+.visited{
+    background-color: rgb(16, 19, 18);
+    border: 2px solid rgb(25, 26, 25);
+}
